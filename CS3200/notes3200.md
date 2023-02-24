@@ -202,6 +202,6 @@ User Event:
         need to be a function ready to go
 
 Structure of URL:
-    https://    www.url.com     /xxxxx/xxxxxxx/xxxx/        ?hello=world
+    https://    www.url.com     /xxxxx/xxxxxxx/xxxx/        ?hello=world \n
     Protocol    Hostname        Path                        Query String
 
